@@ -1,4 +1,4 @@
-from nlplib.corenlp import search_wikipedia, search_wikipedia, get_text_blob, get_phrases
+from nlplib.corenlp import get_phrases
 
 
 def test_get_phrase():
