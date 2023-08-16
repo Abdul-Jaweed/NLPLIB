@@ -14,4 +14,4 @@ format:
 	black *.py nlplib
 
 
-all: install lint test format
+all: install test lint format
